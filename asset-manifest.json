@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/song-app/static/css/main.9f1a57a6.css",
+    "main.js": "/song-app/static/js/main.353d976a.js",
+    "static/media/starfall.gif": "/song-app/static/media/starfall.481482dcf623ea920c53.gif",
+    "index.html": "/song-app/index.html",
+    "main.9f1a57a6.css.map": "/song-app/static/css/main.9f1a57a6.css.map",
+    "main.353d976a.js.map": "/song-app/static/js/main.353d976a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f1a57a6.css",
+    "static/js/main.353d976a.js"
+  ]
+}
